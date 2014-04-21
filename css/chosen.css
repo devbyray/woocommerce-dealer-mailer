@@ -1,0 +1,9 @@
+#customer_details .chosen-container-single .chosen-single {
+	border-radius: 0;
+	-webkit-border-radius: 0;
+	-o-border-radius: 0;
+	-ms-border-radius: 0;
+}
+#customer_details .chosen-container-active.chosen-with-drop .chosen-single {
+	background-image: none;
+}
